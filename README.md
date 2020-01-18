@@ -6,11 +6,13 @@
 
 02 •  Extending an Swagger Specification: [Airport Codes](./airport-codes/readme.md)
 
-03 •  Deployment Discovery Under Kubernetes: [Red-Green Deployment](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
+03 • Representing Microservices Using Docker Compose: [Food Court](https://github.com/reselbob/dockerdemos/tree/master/foodcourt)
 
-04 •  The Canary Deployment Pattern Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/canary-deployment).
+04 •  Deployment Discovery Under Kubernetes: [Red-Green Deployment](https://github.com/reselbob/k8sdemos/tree/master/deployment-discovery-red-green)
 
-05 •  The Blue Green Deployment Pattern Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/blue-green-deployment).
+05 •  The Canary Deployment Pattern Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/canary-deployment).
+
+06 •  The Blue Green Deployment Pattern Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/blue-green-deployment).
 
 ## Day 2
 
@@ -18,7 +20,7 @@
 
 02 •  Service Discovery and Heath Check with Consul [here](./consul/readme.md).
 
-03  • Effective Monitory Using the Kubernetes Dashboard [here](./k8s-dashboard/readme.md).
+03  • Effective Monitoring Using the Kubernetes Dashboard [here](./k8s-dashboard/readme.md).
 
 04 •  Implementing Log Aggregation with Elasticsearch, FluentD and Kibana [here](https://github.com/reselbob/dockerdemos/tree/master/travelagent)
 
