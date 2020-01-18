@@ -24,7 +24,7 @@
 
 04 •  Service Discovery and Heath Check with Consul [here](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/consul).
 
-05 • Ensuruing Cluster Security Using Kubernetes Secrets [here](https://github.com/reselbob/innosoft/blob/master/microservices-architecture/supplemental/labs/02-kubernetes-secrets/README.md).
+05 • Ensuring Cluster Security Using Kubernetes Secrets [here](https://github.com/reselbob/innosoft/blob/master/microservices-architecture/supplemental/labs/02-kubernetes-secrets/README.md).
 
 06 • Workshop: Adding an Ad Auction Service to the existing Fortune Cookies MOA: Synchronous and Ansynchronous. Project code is [here](https://github.com/reselbob/fortune-cookies).
 
