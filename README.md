@@ -20,9 +20,9 @@
 
 02 •  Implementing Log Aggregation with Elasticsearch, FluentD and Kibana [here](https://github.com/reselbob/dockerdemos/tree/master/travelagent)
 
-03 •  Kubernetes Service Discovery [here](https://github.com/reselbob/innosoft/tree/master/microservices-architecture/04-service-discovery-k8s).
+03 •  Service Discovery and Heath Check with Consul [here](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/consul).
 
-04 •  Service Discovery and Heath Check with Consul [here](https://github.com/reselbob/innosoft-vmware-10202019/tree/master/consul).
+04 •  Kubernetes Service Discovery [here](https://github.com/reselbob/innosoft/tree/master/microservices-architecture/04-service-discovery-k8s).
 
 05 • Ensuring Cluster Security Using Kubernetes Secrets [here](https://github.com/reselbob/innosoft/blob/master/microservices-architecture/supplemental/labs/02-kubernetes-secrets/README.md).
 
